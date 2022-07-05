@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/texttut/static/css/main.31d6cfe0.css",
+    "main.js": "/texttut/static/js/main.c801d0b6.js",
+    "static/js/787.cec9b099.chunk.js": "/texttut/static/js/787.cec9b099.chunk.js",
+    "index.html": "/texttut/index.html",
+    "main.c801d0b6.js.map": "/texttut/static/js/main.c801d0b6.js.map",
+    "787.cec9b099.chunk.js.map": "/texttut/static/js/787.cec9b099.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c801d0b6.js"
+  ]
+}
