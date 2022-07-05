@@ -12,7 +12,7 @@ export default function Navber(props) {
         {/* <Link className="navbar-brand" to='/'>
           {props.title}
         </Link> */}
-        <a className="navbar-brand" href="/">{props.title}</a>
+        <a className="navbar-brand" href="#">{props.title}</a>
         <button
           className="navbar-toggler"
           type="button"
